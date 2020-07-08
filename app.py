@@ -7,7 +7,7 @@ import plotly.express as px
 #st.markdown("### my first streamlit dashboard")
 
 DATA_URL = (
-"C:/Users/Admin/Desktop/project/Motor_Vehicle_Collisions_-_Crashes.csv"
+"Motor_vehicle_collision.csv"
 )
 
 st.title("Motor Vehicle Collisions in New York ")
